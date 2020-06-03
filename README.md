@@ -4,7 +4,7 @@
 springboot和微信小程序整合，后台用springboot,前台用微信小程序
 
 #### 软件架构
-主要技术：springBoot、mybatis-plus、lombok、mysql 、微信小程序
+主要技术：springBoot、mybatis、lombok、mysql 、微信小程序
 
 效果图如下：
 ### 首页信息页面
